@@ -2,3 +2,8 @@
 *.pyc
 data/
 results/
+
+# Visual Studio stuff
+.vs/
+*.pyproj
+*.sln
